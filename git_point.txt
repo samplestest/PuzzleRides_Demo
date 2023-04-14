@@ -1,0 +1,70 @@
+git clone https://github.com/parassurbhiinfotech/octics-vr-backend.git
+git checkout -b "darshini"  
+git config core.autocrlf true 
+ git add .   
+  git commit -m "initaial commit of the code"  
+   git push      
+   git push --set-upstream origin darshini  
+   git status   
+   exit 
+
+
+
+server Database:
+connecting in database
+3fiel:[dbConfig,sawgger,bootstrap]
+
+Server Port kill:
+ taskkill /f /im node.exe
+
+
+In Project Structure Use Structure in side NewComm path 
+-in side The Structure Folder in Folder name Newcomm Use For Following  Project Structure
+
+
+
+git add .
+git commit -m "comment"
+git push
+
+create branch
+
+git checkout -b "new Branch name"
+git checkout "Branch name"
+
+
+===>
+git init
+commit and Push Changes
+git add .
+git commit -m "comment"
+git push
+
+commit in Brach and Push
+git add .
+git commit -m "comment"
+git push --set-upstream origin darshini(branch Name) 
+
+create New Branch
+git checkout -b "new Branch name"
+
+//install in vs
+github copilot
+git history
+git project maneger
+
+//video chat application add
+piyush garg
+codingmonk-yt
+web dev simplifiled
+Manoj Singh Negi
+
+//firebase Authentication in Node js
+Wanuja97
+pedroTech
+geeksforgeeks
+
+Chensokheng
+WebnijaDeveloper
+
+
